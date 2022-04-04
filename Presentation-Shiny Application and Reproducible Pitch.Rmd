@@ -1,0 +1,26 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "Mohamad Tayara"
+date: "April 2022"
+output: ioslides_presentation
+---
+
+## Intro
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Gas Cost Estimate App
+
+This app allows the estimation of gas expenditure based on the user input of Gas price (per gallon) and distance trip (miles) for the cars datatest in RStudio
+## Links
+
+Website:
+
+https://githubmt20.shinyapps.io/Data-product-week-4-Final-assignment-master/
+
+Github:
+
+https://github.com/lovelyxs/Shiny-Application-and-Reproducible-Pitch.git
+
+
+Thank You!
