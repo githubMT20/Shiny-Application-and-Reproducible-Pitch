@@ -20,7 +20,7 @@ https://githubmt20.shinyapps.io/Data-product-week-4-Final-assignment-master/
 
 Github:
 
-https://github.com/lovelyxs/Shiny-Application-and-Reproducible-Pitch.git
+https://github.com/githubMT20/Shiny-Application-and-Reproducible-Pitch/
 
 
 Thank You!
